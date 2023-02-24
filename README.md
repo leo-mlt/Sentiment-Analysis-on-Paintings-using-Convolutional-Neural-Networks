@@ -14,3 +14,6 @@ to paintings
 - **WikiArt Dataset**: this is a dataset in which are collected around 81,000 painting made by different painters who have been part different artistic currents. The
 dataset has a dimension of 25.4 Gb and can be downloaded on this [link](https://drive.google.com/file/d/1vTChp3nU5GQeLkPwotrybpUGUXj12BTK/view)
 - **Artemis Dataset**: this is a dataset in which different persons, for each paint, expresses her/his emotion looking to the paint and brief description of her/his mood. The dataset has a dimension of 68 Mb and can be downloaded at this [link](https://www.artemisdataset.org/#dataset)
+
+## Implementation Details
+The project was implemented first in a local pc with GPU Support (RTX GeForce 3060, 6GB RAM) and then it is loaded on github
